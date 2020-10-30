@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/stuff51bot_vk",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "levandro",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "vkcom/vk-php-sdk": "5.101.0",
+    "ext-json": "*"
+  }
+}
